@@ -1,0 +1,8 @@
+/* elemento */
+h1 {color:crimson; font-size: 42; font-family: helvetica;}
+
+/* class */
+.parrafo {color:blueviolet; font-family: helvetica;}
+
+/* id */
+#texto {color: chocolate; font-family: helvetica;}

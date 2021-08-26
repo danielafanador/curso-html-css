@@ -1,0 +1,14 @@
+/* elemento */
+h1 {color:crimson; font-family: arial; background-color: white;}
+h2 {color:darkblue; font-family: arial; background-color: white;}
+h3 {color:darkorchid; font-family: arial; background-color: white;}
+h4 {color:darkslategray; font-family: arial; background-color: white;}
+h5 {color:forestgreen; font-family: arial; background-color: white;}
+h6 {color:gold; font-family: arial; background-color: white;}
+
+/* class */
+.parrafo {color:blueviolet; font-family: helvetica;}
+
+/* id */
+#item {color: chocolate; font-family: helvetica; background-color: gold;}
+#todo {background-color: green;}
